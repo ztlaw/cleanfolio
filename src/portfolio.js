@@ -1,7 +1,7 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
   homepage: 'https://ztlaw.github.io/',
-  title: 'Professional Portfolio',
+  title: 'WL',
 }
 
 const about = {
