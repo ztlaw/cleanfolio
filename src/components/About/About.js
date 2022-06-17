@@ -10,7 +10,7 @@ const About = () => {
     <div className='about center'>
       {name && (
         <h1>
-          Hi, I am <span className='about__name'>{name}.</span>
+          Hello, my name is <span className='about__name'>{name}.</span>
         </h1>
       )}
 
