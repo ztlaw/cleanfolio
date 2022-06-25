@@ -24,8 +24,8 @@ const projects = [
     name: 'Project 1',
     description:
       'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
+    stack: ['HTML5', 'CSS', 'Vanilla JS'],
+    sourceCode: 'https://github.com/ztlaw/restaurant-website',
     livePreview: 'https://github.com',
   },
   {
