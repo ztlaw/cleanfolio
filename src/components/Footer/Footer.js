@@ -1,4 +1,4 @@
-import './Footer.css'
+// import './Footer.css'
 
 // const Footer = () => (
 //   <footer className='footer'>
@@ -6,9 +6,9 @@ import './Footer.css'
 //       href='https://github.com/rajshekhar26/cleanfolio'
 //       className='link footer__link'
 //     >
-     
+//       Created By Raj Shekhar
 //     </a>
 //   </footer>
 // )
 
-export default Footer
+// export default Footer
