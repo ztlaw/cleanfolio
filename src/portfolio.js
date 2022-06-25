@@ -21,12 +21,12 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Project 1',
+    name: 'Restaurant Website',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+      'A static restaurant-themed website using HTML5, CSS and VanillaJS. Please read more on github!',
     stack: ['HTML5', 'CSS', 'Vanilla JS'],
     sourceCode: 'https://github.com/ztlaw/restaurant-website',
-    livePreview: 'https://github.com',
+    livePreview: 'https://transcendent-palmier-0c4df3.netlify.app/',
   },
   {
     name: 'Project 2',
