@@ -9,7 +9,7 @@ const about = {
   name: 'Walt Lungan',
   role: 'Full Stack Web Developer and Software Engineer',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
+    "Over the last few years, while working in my government job doing data analysis and in a public service position,I realized that lot of the work I was doing could be automated with a lot less human error. I took it upon myselfto learn JavaScript, and in turn, learning Web-Development to further hone my skills. Since the onset of the pandemic, while working,  I've also been freelancing in Web Dev to help support myself and my family. ",
   resume: 'https://example.com',
   social: {
     linkedin: 'https://www.linkedin.com/in/walt-lungan/',
