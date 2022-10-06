@@ -2,6 +2,7 @@ const header = {
   // all the properties are optional - can be left empty or deleted
   homepage: 'https://ztlaw.github.io/',
   title: 'WL',
+  photo: './src/imgs/headshot.jpg'
 }
 
 const about = {
