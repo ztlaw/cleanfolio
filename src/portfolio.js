@@ -1,8 +1,8 @@
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://ztlaw.github.io/',
+  homepage: 'https://github.com/ztlaw',
   title: 'WL',
-  photo: './src/imgs/headshot.jpg'
+  photo: './src/assets/headshot.jpg'
 }
 
 const about = {
@@ -25,24 +25,24 @@ const projects = [
     name: 'Restaurant Website',
     description:
       'A static restaurant-themed website using HTML5, CSS and VanillaJS. Please read more on github!',
-    stack: ['HTML5', 'CSS', 'Vanilla JS'],
+    stack: ['HTML5', 'CSS', 'JavaScript'],
     sourceCode: 'https://github.com/ztlaw/restaurant-website',
     livePreview: 'https://transcendent-palmier-0c4df3.netlify.app/',
   },
   {
-    name: 'Project 2',
+    name: 'Go! Social & Fitness',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
+      'A full stack web application catered to anyone who exercises and wants to share their journey with others.',
+    stack: ['MongoDB', 'Javascript', 'React', 'Express', 'Bootstrap', 'JSX'],
+    sourceCode: 'https://github.com/ztlaw/go-social-and-fitness',
     livePreview: 'https://github.com',
   },
   {
-    name: 'Project 3',
+    name: 'Homework Bound Assignment Tracker',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
+      'A full stack web application created for students of all grades to document and track their school assignments.',
+    stack: ['MongoDB', 'Javascript', 'React', 'Express'],
+    sourceCode: 'https://github.com/ztlaw/homework-bound',
     livePreview: 'https://github.com',
   },
 ]
