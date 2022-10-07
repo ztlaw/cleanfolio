@@ -43,7 +43,7 @@ const projects = [
       'A full stack web application created for students of all grades to document and track their school assignments.',
     stack: ['MongoDB', 'Javascript', 'React', 'Express'],
     sourceCode: 'https://github.com/ztlaw/homework-bound',
-    livePreview: 'https://github.com',
+    livePreview: 'https://homeworkbound.herokuapp.com/',
   },
 ]
 

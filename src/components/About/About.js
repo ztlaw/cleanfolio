@@ -9,7 +9,7 @@ const About = () => {
   return (
     <div className='about center'>
       {name && (
-        <h1>
+        <h1 className='text-primary text-right'>
           Hello, my name is <span className='about__name'>{name}.</span>
         </h1>
       )}
