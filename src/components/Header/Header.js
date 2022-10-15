@@ -4,7 +4,7 @@ import './Header.css'
 
 
 const Header = () => {
-  const { homepage, title, photo } = header
+  const { homepage, title } = header
  // const logo = require('./src/assets/headshot.jpg')
 
   return (
@@ -12,7 +12,7 @@ const Header = () => {
       <h3>
         {homepage ? (
           <a href={homepage} className='link'> {title} 
-                  <img src={photo} alt='headshot' /> 
+
           </a>
         ) : (
           title
