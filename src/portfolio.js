@@ -9,8 +9,8 @@ const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Walt Lungan',
   role: 'Full Stack Web Developer and Software Engineer',
- photo:  './src/assets/images/headshot.jpg',
-//  photo: 'http://placekitten.com/200/300',
+   photo:  '/images/headshot.jpg', // why doesnt this image path work?
+  // photo: 'http://placekitten.com/200/300',
   description:
     "Over the last few years, while working in my government job doing data analysis and in a public service position,I realized that lot of the work I was doing could be automated with a lot less human error. I took it upon myselfto learn JavaScript, and in turn, learning Web-Development to further hone my skills. Since the onset of the pandemic, while working,  I've also been freelancing in Web Dev to help support myself and my family. ",
   resume: 'https://example.com',
