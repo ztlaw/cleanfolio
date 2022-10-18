@@ -15,8 +15,10 @@ const About = () => {
       )}
 
       {role && <h2 className='about__role'>A {role}.</h2>}
+      <div className='flex-row'>
       <p className='about__desc'>{description && description}</p>
       <img src={photo} alt='headshot' /> 
+      </div>
       
 
       <div className='about__contact center'>

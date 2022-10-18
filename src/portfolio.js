@@ -12,7 +12,7 @@ const about = {
    photo:  '/images/headshot.jpg', // why doesnt this image path work?
   // photo: 'http://placekitten.com/200/300',
   description:
-    "Over the last few years, while working in my government job doing data analysis and in a public service position,I realized that lot of the work I was doing could be automated with a lot less human error. I took it upon myselfto learn JavaScript, and in turn, learning Web-Development to further hone my skills. Since the onset of the pandemic, while working,  I've also been freelancing in Web Dev to help support myself and my family. ",
+    "As a web developer, I strive to help local businesses create a positive impact in their online presence, whether it's selling a product or providing a service. Through SEO, modern web accessibility guidelines, and responsive design, I create websites and full-stack web applications for everybody to experience. I look forward to being able to work with you!  ",
   resume: 'https://example.com',
   social: {
     linkedin: 'https://www.linkedin.com/in/walt-lungan/',
