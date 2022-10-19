@@ -12,8 +12,8 @@ const about = {
    photo:  '/images/headshot.jpg', // why doesnt this image path work?
   // photo: 'http://placekitten.com/200/300',
   description:
-    "As a web developer, I strive to help local businesses create a positive impact in their online presence, whether it's selling a product or providing a service. Through SEO, modern web accessibility guidelines, and responsive design, I create websites and full-stack web applications for everybody to experience. I look forward to being able to work with you!  ",
-  resume: 'https://example.com',
+    "As a web developer, I strive to help local businesses create a positive impact in their online presence, whether their goal is to sell a product or provide a service. Through SEO, modern web accessibility guidelines, and responsive design, I create websites and full-stack web applications for everybody to experience. I look forward to being able to work with you!  ",
+  resume: 'https://github.com/ztlaw/Resume/raw/main/Walt%20Lungan%20Resume%2010182022.pdf',
   social: {
     linkedin: 'https://www.linkedin.com/in/walt-lungan/',
     github: 'https://github.com/ztlaw',
@@ -59,7 +59,9 @@ const skills = [
   'React',
   'Express',
   'MongoDB',
-  'Node'
+  'Node', 
+  'MySQL', 
+  'PostgreSQL'
 ]
 
 const contact = {
